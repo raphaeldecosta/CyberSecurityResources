@@ -1,6 +1,6 @@
 # CyberSecurityResources
 ----------------------------------------------
-Do Note that this will constantly be updated
+Do note that this will constantly be updated!
 
 Youtube Channels:
 ----------------------------------------------
