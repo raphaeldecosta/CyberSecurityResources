@@ -2,7 +2,7 @@
 ----------------------------------------------
 Do note that this will constantly be updated!
 
-Youtube Channels:
+####Youtube Channels:
 ----------------------------------------------
 https://www.youtube.com/c/JohnHammond010.  
 https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw (Has free courses on this channel). 
@@ -18,36 +18,36 @@ https://www.youtube.com/c/professormesser (Has free courses on this channel).
 
 
 
-Free Resources:
+####Free Resources:
 ----------------------------------------------
-https://tryhackme.com/ (So, this has free rooms for you to tackle but if you do want to attempt further rooms, its only like 600rs. or something). 
-https://cybr.com/courses/ (Again, has a mix of free and paid courses). 
-https://academy.wehackpurple.com/collections (Again, has a mix of free and paid courses). 
-https://overthewire.org/wargames/ (A fun way to learn linux). 
-https://pwn.college/ (It touches on a variety of topics and they do have a youtube channel that you can just search for). 
-https://www.hoppersroppers.org/courseCTF.html (Has a wonderful curated Intro to CyberSecurity course. All courses are free). 
-https://dfirdiva.com/free-and-affordable-training/ (Provides more links to a lot of free and paid resources like webinars, courses etc.). 
-https://www.simplycyber.io/free-cyber-resources
+* https://tryhackme.com/ (So, this has free rooms for you to tackle but if you do want to attempt further rooms, its only like 600rs. or something)
+* https://cybr.com/courses/ (Again, has a mix of free and paid courses)
+* https://academy.wehackpurple.com/collections (Again, has a mix of free and paid courses) 
+* https://overthewire.org/wargames/ (A fun way to learn linux)
+* https://pwn.college/ (It touches on a variety of topics and they do have a youtube channel that you can just search for)
+* https://www.hoppersroppers.org/courseCTF.html (Has a wonderful curated Intro to CyberSecurity course. All courses are free)
+* https://dfirdiva.com/free-and-affordable-training/ (Provides more links to a lot of free and paid resources like webinars, courses etc.)
+* https://www.simplycyber.io/free-cyber-resources
 
-Web Application Security:
+####Web Application Security:
 -----------------------------------------------
-https://portswigger.net/web-security (They have an academy page, register and learn! It's all free). 
-https://www.hacker101.com/. 
+* https://portswigger.net/web-security (They have an academy page, register and learn! It's all free)
+* https://www.hacker101.com/. 
 
 
-Cryptography:
+####Cryptography:
 -----------------------------------------------
-https://cryptopals.com/. 
-https://cryptohack.org/. 
+* https://cryptopals.com/. 
+* https://cryptohack.org/. 
 
-Blue Teaming Material:
+####Blue Teaming Material:
 ------------------------------------------------
-https://letsdefend.io/  
-https://cyberdefenders.org/  
+* https://letsdefend.io/  
+* https://cyberdefenders.org/  
 
 
 
-Paid Resources:
+####Paid Resources:
 ----------------------------------------------
-https://www.hackthebox.com/ (Similar to TryHackMe). 
+* https://www.hackthebox.com/ (Similar to TryHackMe). 
 
