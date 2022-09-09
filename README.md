@@ -4,8 +4,8 @@ Do note that this will constantly be updated!
 
 Youtube Channels:
 ----------------------------------------------
-https://www.youtube.com/c/JohnHammond010
-https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw (Has free courses on this channel)
+https://www.youtube.com/c/JohnHammond010.  
+https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw (Has free courses on this channel). 
 https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
 https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
